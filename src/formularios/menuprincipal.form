@@ -24,7 +24,7 @@
                 </MenuItem>
                 <MenuItem class="javax.swing.JMenuItem" name="jMenuItem2">
                   <Properties>
-                    <Property name="text" type="java.lang.String" value="Gianina la mejor"/>
+                    <Property name="text" type="java.lang.String" value="Gianina la mejo"/>
                   </Properties>
                 </MenuItem>
               </SubComponents>
